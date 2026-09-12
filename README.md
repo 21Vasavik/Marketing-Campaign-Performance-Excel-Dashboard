@@ -65,6 +65,11 @@ The dashboard includes:
 - 🔻 Marketing Funnel: Impressions → Clicks → Conversions
 - 🔎 Channel, Region and Year-Month filters
 
+## 📊 Dashboard Preview
+![Marketing Campaign Performance Dashboard](Screenshot%20%28426%29.png)
+![Marketing Campaign Performance Dashboard](Screenshot%20%28427%29.png)
+
+
 ## 💡 Key Insights
 
 - Total revenue generated was approximately **$6.55M**.
