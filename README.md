@@ -66,8 +66,8 @@ The dashboard includes:
 - 🔎 Channel, Region and Year-Month filters
 
 ## 📊 Dashboard Preview
-![Marketing Campaign Performance Dashboard](Screenshot%20%28426%29.png)
-![Marketing Campaign Performance Dashboard](Screenshot%20%28427%29.png)
+![Marketing Campaign Performance Dashboard](Dashboard1.png)
+![Marketing Campaign Performance Dashboard](Dashboard2.png)
 
 
 ## 💡 Key Insights
